@@ -1,6 +1,6 @@
 ## AI Resume Screening System
 
- ## 📄 Overview 
+ ## 📄 Overview
 AI Resume Screening is a machine learning-powered application built to streamline the candidate shortlisting process for HR professionals. This project automates resume parsing, classification, and job-role matching using advanced Natural Language Processing (NLP) techniques. It offers real-time insights to both recruiters and job seekers, significantly reducing hiring time and effort.
 
 ## 💼 Key Features
